@@ -12,3 +12,11 @@ Window ==>  Collection of all the tools which are technically available in the b
 Data Types==>
 
 data types are of two types ==> Primitive DT and Non-Premitive or Reference DT
+
+Condtionals ==>
+
+#Truthy and falsy values --> in if condition checking har value ko truth ya alse bnaya ja skta hai , ye depend krta hai ki us value ka type kya h. If wo value truthy hai to truth bnegi otherwise false i.e wo falsy value hai
+
+Falsy values ==> null , undefined , NaN , 0 , "" , ' ' , document.all , false
+
+nd if you want to check check by Boolean(null) or Boolean(0)
