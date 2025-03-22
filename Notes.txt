@@ -9,3 +9,6 @@ There are many features which are frequently used in JS but are not the part of 
 
 Window ==>  Collection of all the tools which are technically available in the browser and are given by the browser to use in JS (like prompt , console , alert these are browser or window specific things and are not the part of jS but  JS can access these things via the window ) ---> Window Object
 
+Data Types==>
+
+data types are of two types ==> Primitive DT and Non-Premitive or Reference DT
