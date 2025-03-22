@@ -1,0 +1,11 @@
+In every progeramming language , we have to deal with data and that data can be of various types , and the data we are going to deal with must be saved somewhere, so we need some saving space to save that data , and to save them we must name them something ,that's why the concpet of variables and constants is introduced so that we can save that data and that data must have a name so that we can access them.
+
+Whatever data we are storing on , it actuall gets stored in computer's memory or ram coz js code runs on browser and if we store any data on js , and we run that js code it will run on browser and that data will be stored on that particular browser's  storage and in reality , the browser runs on computer's memory so indirectly your stored data that you stored on js eventually gets stored on computers memory ie., RAM  . So , we can say that js is connected to chrome's memory (Heap memory) and the chrome's memory is connected to RAM. JS doesn'nt store data direcly on ram(Technically)
+
+Variables = a container used to store values but the value inside a varibale can be changed.
+Constants = It is also a container but the value of a constant can't be changed .
+
+There are many features which are frequently used in JS but are not the part of JS , they are available in browser , when you can use them in JS they are called from the browser and not JS.
+
+Window ==>  Collection of all the tools which are technically available in the browser and are given by the browser to use in JS (like prompt , console , alert these are browser or window specific things and are not the part of jS but  JS can access these things via the window ) ---> Window Object
+
